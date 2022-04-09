@@ -53,7 +53,7 @@ async function main() {
     // await findAllGamesPre2020()
     // await createGame()
     // await updateGame()
-    await deleteSnacks()
+    // await deleteSnacks()
   } catch (error) {
     console.log(error)
   } finally {
